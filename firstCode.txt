@@ -2,3 +2,5 @@ Hello world !!!
 take input from use 
 and add values
 so i need to remove file 
+
+i need to remove readme file from the project
